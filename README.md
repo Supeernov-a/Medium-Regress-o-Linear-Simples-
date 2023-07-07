@@ -2,4 +2,4 @@
 Este notebook contem : 
 
 Notebook de regressão linear simples. 
-Dados chamdos de train
+Dados chamados de train
