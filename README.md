@@ -1,5 +1,6 @@
 # Medium Regressão Linear
 Este notebook contem : 
 
-Notebook de regressão linear simples. 
-Dados chamados de train
+Notebook de regressão linear simples, notebook em eng e pt.
+
+Dados extraidos do site kaggle
